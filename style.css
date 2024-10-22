@@ -1,0 +1,11 @@
+body {
+  animation: clarear 10s ease-in-out forwards;
+  color: #c0c0c0;
+  background-image: url("/img/fundo.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+#principal {
+  text-align: center;
+}
